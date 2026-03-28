@@ -30,6 +30,7 @@ $result = $conn->query("SELECT * FROM pedidos");
 </td>
 </tr>
 
+
 <?php } ?>
 
 </table>
