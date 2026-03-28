@@ -1,6 +1,6 @@
 <?php
 
-$conn = new mysqli("localhost","root","","pasteleria");
+$conn = new mysqli("mysql-florezapi.alwaysdata.net", "florezapi", "clase1234", "florezapi_pasteleria");
 
 $id = $_GET['id'];
 
