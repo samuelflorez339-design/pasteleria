@@ -27,5 +27,3 @@ jobs:
           exclude: |
            .git/**
            .github/**
-           
-
